@@ -41,7 +41,7 @@ class App extends Component{
                 {/* <Timer /> */}
                 {/* <Dest name="Moseti" career="Programmer" />
                 <Dest2 user="Dorothy" career="Teaching"/> */}
-                <DestClasses name = 'Tee_dev.'/>
+                <DestClasses name = 'Teedev.'/>
             </div>
         );
     }
