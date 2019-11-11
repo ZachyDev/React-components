@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  color:teal;
+}
+.App button{
+  background: teal;
+  border-radius: 10px;
 }
 
 .App-logo {
